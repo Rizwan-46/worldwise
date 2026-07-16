@@ -6,8 +6,6 @@ A modern React-based travel application that allows users to mark cities they ha
 
 ## 📸 Preview
 
-> Add a screenshot or live demo link here.
-
 <img width="3000" height="1742" alt="image" src="https://github.com/user-attachments/assets/b4a86073-b4ec-493c-be63-9619aea40363" />
 <img width="2997" height="1699" alt="image" src="https://github.com/user-attachments/assets/c10e4514-96af-4fdb-92e0-768c3f9248ab" />
 <img width="2986" height="1727" alt="image" src="https://github.com/user-attachments/assets/ca53929e-3074-48b3-af56-4eafcdc547be" />
